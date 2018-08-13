@@ -15,6 +15,7 @@ If you have another additional awesome free resource, please feel free to add it
 - Layers: A WordPress site builder so simple. It’s free, forever.
 - Bootstrap Zero: The largest open-source, free Bootstrap template collection.
 - Landing Harbor: Promote your mobile app with a free landing page.
+- Web Designer Depot: Useful Website design tips and freebies
 
 # Branding & Logo
 - Logaster: Professional online logo maker & generator.
@@ -147,6 +148,7 @@ If you have another additional awesome free resource, please feel free to add it
 - Build an online course: A free course to help you build an online course.
 - MailCharts: A FREE email course to help you become a better marketer.
 - FirstSiteGuide: The beginner’s guide to successful blogging.
+- https://moz.com/blog/the-noob-guide-to-online-marketing-with-giant-infographic-11928 - Big article on online marketing.
 
 # Social Media + Community Management
 - WriteRack: The best way to tweetstorm.
@@ -350,6 +352,10 @@ If you have another additional awesome free resource, please feel free to add it
 - Peek: Get a free, 5-minute video of someone using your site.Creator: Build better Ionic apps, faster.
 - DevFreeCasts: A huge collection of free screencasts for developers.
 - Cody: A free library of HTML, CSS, JS nuggets.
+- Databaseanswers.org: Templates and schemes for various industries (SQL)
+- Flex Box Froggy: Practice the flex box display in CSS through a fun game
+- gtmetrix.com: check your website for speed issues
+- Devdocs.io: Offline-available documentation for most frameworks and languages on the web.
 
 # Background Sounds to Focus
 - Noisli: Background noise & color generator.
@@ -403,6 +409,7 @@ If you have another additional awesome free resource, please feel free to add it
 - Beta List: Discover and get early access to tomorrow’s startups.
 - StartupLi.st: Find. Follow. Recommend startups.
 - Erli Bird: Where great new products are born.
+- Indie Hackers: Connect with fellow entrepreneurs, developers, and bootstrappers who are sharing the strategies behind their companies.
 
 # Build Together
 - Assembly: Co-create new ideas no matter where they are.
@@ -426,6 +433,7 @@ If you have another additional awesome free resource, please feel free to add it
 - TalentBuddy: Learn to code.
 - Mixergy: Learn from proven entrepreneurs.
 - Hackdesign: Receive a design lesson in your inbox each week.
+- edx.org: Free courses
 
 # Newsletters that Don't Suck
 - [Email1K](https://email1k.com/): A free 30 day course to double your email list.
@@ -447,3 +455,4 @@ If you have another additional awesome free resource, please feel free to add it
 - Pitcherific: Pitcherific helps you create, train, and improve your pitch.
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.
 - [Picatic](https://www.picatic.com/): Free event registration platform to host events.
+- directorybug.com/top100/ - Top 100+ Local Business Listing Sites To List Your Business On For Free
